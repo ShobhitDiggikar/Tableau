@@ -17,7 +17,8 @@ Over here I was able to differentiate above average and below average by putting
 <img width="735" alt="Screenshot 2025-01-09 at 7 56 16 PM" src="https://github.com/user-attachments/assets/a243b79f-7265-4287-981b-0c154b599165" />
 
 
-6. **When you are publishing a workbook on Tableau with a data source that has been used before and you have published one workbook previously then remember to uncheck the box which asks to replace the previous workbook with the new one, otherwise your previous workbook will get replaced keeping the same name as before but you won't be able to see the previous workbook**
+6. **When you are publishing a workbook on Tableau with a data source that has been used before and you have published one workbook previously then remember to uncheck the box which asks to replace the previous workbook with the new one, otherwise your previous workbook will get replaced keeping the same name as before but you won't be able to see the previous workbook** </br>
 
+7. Joins combine data at the database level, whereas data blending happens at the visualization layer in Tableau.
 
 
