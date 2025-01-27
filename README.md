@@ -21,4 +21,6 @@ Over here I was able to differentiate above average and below average by putting
 
 7. Joins combine data at the database level, whereas data blending happens at the visualization layer in Tableau.
 
+8. A highlight table in Tableau uses the Square mark type to represent data values visually. Each square is colour-coded based on the measure values to highlight differences and trends within the data.
+
 
