@@ -25,4 +25,6 @@ Over here I was able to differentiate above average and below average by putting
 
 9. For a stacked bar chart to appear the only thing you need is **one measure** and a line chart to appear is **a measure followed by date**.
 
+10. Any thing which is a discrete whether it is a measure or a dimension will be in **blue colour**
+
 
