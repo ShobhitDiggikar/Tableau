@@ -23,4 +23,6 @@ Over here I was able to differentiate above average and below average by putting
 
 8. A highlight table in Tableau uses the Square mark type to represent data values visually. Each square is colour-coded based on the measure values to highlight differences and trends within the data.
 
+9. For a stacked bar chart to appear the only thing you need is **one measure** and a line chart to appear is **a measure followed by date**.
+
 
