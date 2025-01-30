@@ -27,4 +27,7 @@ Over here I was able to differentiate above average and below average by putting
 
 10. Any thing which is a discrete whether it is a measure or a dimension will be in **blue colour**
 
+ 
+<img width="848" alt="Screenshot 2025-01-30 at 1 18 49 PM" src="https://github.com/user-attachments/assets/50cb1909-b137-48ce-a831-79761f5085ca" />
+
 
