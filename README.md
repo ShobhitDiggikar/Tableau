@@ -30,4 +30,6 @@ Over here I was able to differentiate above average and below average by putting
  
 <img width="848" alt="Screenshot 2025-01-30 at 1 18 49 PM" src="https://github.com/user-attachments/assets/50cb1909-b137-48ce-a831-79761f5085ca" />
 
+11. Treemaps are the type of charts that cannot be resized using a marks card
+
 
