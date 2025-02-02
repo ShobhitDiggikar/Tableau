@@ -32,4 +32,5 @@ Over here I was able to differentiate above average and below average by putting
 
 11. Treemaps are the type of charts that cannot be resized using a marks card
 
+12. Migrated Data means the workbook was created in the **previous version of the Tableau desktop**
 
