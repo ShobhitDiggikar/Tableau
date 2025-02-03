@@ -36,3 +36,6 @@ Over here I was able to differentiate above average and below average by putting
 
 13. **An Axis, A field label and a header can sort a visualization**
 
+<img width="595" alt="Screenshot 2025-02-03 at 12 31 30 PM" src="https://github.com/user-attachments/assets/ec79644d-a11a-4cab-9519-517f44fbb76a" />
+
+
