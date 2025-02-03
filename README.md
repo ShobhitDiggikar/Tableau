@@ -34,3 +34,5 @@ Over here I was able to differentiate above average and below average by putting
 
 12. Migrated Data means the workbook was created in the **previous version of the Tableau desktop**
 
+13. **An Axis, A field label and a header can sort a visualization**
+
