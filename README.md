@@ -12,7 +12,7 @@ Some of the Tableau dashboards I made and some notes from my Tableau experience.
    for e.g.
 <img width="613" alt="Screenshot 2025-01-07 at 11 26 18 PM" src="https://github.com/user-attachments/assets/8f3f92b0-0620-4a68-ad03-1527b780e29d" /> </br>
 
-Over here I was able to differentiate above average and below average by putting Avg. line in the chart and then creating a calculated field. ( sum([Sales])>=window_avg(sum([Sales])). LAstly putting the calculated field in colour.
+Over here I was able to differentiate above average and below average by putting Avg. line in the chart and then creating a calculated field. ( sum([Sales])>=window_avg(sum([Sales])). Lastly putting the calculated field in colour.
 
 <img width="735" alt="Screenshot 2025-01-09 at 7 56 16 PM" src="https://github.com/user-attachments/assets/a243b79f-7265-4287-981b-0c154b599165" />
 
@@ -25,7 +25,7 @@ Over here I was able to differentiate above average and below average by putting
 
 9. For a stacked bar chart to appear the only thing you need is **one measure** and a line chart to appear is **a measure followed by date**.
 
-10. Any thing which is a discrete whether it is a measure or a dimension will be in **blue colour**
+10. Anything which is discrete whether it is a measure or a dimension will be in **blue colour**
 
  
 <img width="848" alt="Screenshot 2025-01-30 at 1 18 49 PM" src="https://github.com/user-attachments/assets/50cb1909-b137-48ce-a831-79761f5085ca" />
@@ -38,4 +38,5 @@ Over here I was able to differentiate above average and below average by putting
 
 <img width="595" alt="Screenshot 2025-02-03 at 12 31 30 PM" src="https://github.com/user-attachments/assets/ec79644d-a11a-4cab-9519-517f44fbb76a" />
 
+14. How to select non-default shape palette -> From Menu > import workbook to import other shape palettes
 
