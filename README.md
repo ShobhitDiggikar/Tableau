@@ -43,6 +43,8 @@ Over here I was able to differentiate above average and below average by putting
 14. How to select non-default shape palette -> From Menu > import workbook to import other shape palettes
 
 ---
-15. **Packed bubble** is the only chart that **cannot** be resized using a marks card. 
+15. **Packed bubble** is the only chart that **cannot** be resized using a marks card.
+
+16. ***Discrete fields create bins*** and ***Continuous fields create axes***
 
 
