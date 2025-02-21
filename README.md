@@ -49,5 +49,12 @@ Over here I was able to differentiate above average and below average by putting
 
 <img width="500" alt="Screenshot 2025-02-13 at 11 36 00 PM" src="https://github.com/user-attachments/assets/72d5ac16-53df-46e7-87cd-b80036f39d49" />
 
+---
+**Groups** - Groups are used to **combine multiple dimension** values **into a single category** for simplified analysis </br>
+Example: If a dataset has "NYC," "New York," and "New York City" as separate values, you can group them into one category, "New York. 
+
+**Sets** - A Subset of data based on defined conditions or rules </br>
+Helps in comparisons and calculations, such as identifying the Top 10 Customers by Revenue dynamically.
+
 
 
