@@ -60,4 +60,6 @@ Helps in comparisons and calculations, such as identifying the Top 10 Customers 
 
 <img width="748" alt="Screenshot 2025-02-26 at 11 35 27 PM" src="https://github.com/user-attachments/assets/62cffa9d-baff-4f4c-a97d-08c4d67a8e05" />
 
+# WOW 
+<img width="1327" alt="Screenshot 2025-03-15 at 10 49 44 PM" src="https://github.com/user-attachments/assets/391ff03b-e35f-4564-9d5d-b9fb6736d14b" />
 
