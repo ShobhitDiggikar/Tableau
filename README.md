@@ -63,3 +63,5 @@ Helps in comparisons and calculations, such as identifying the Top 10 Customers 
 # WOW 
 <img width="1327" alt="Screenshot 2025-03-15 at 10 49 44 PM" src="https://github.com/user-attachments/assets/391ff03b-e35f-4564-9d5d-b9fb6736d14b" />
 
+# LOD Question
+<img width="619" height="690" alt="Screenshot 2025-07-24 at 5 05 27 PM" src="https://github.com/user-attachments/assets/1fffdb7e-0949-4e30-a4b1-126f8c8d0952" />
