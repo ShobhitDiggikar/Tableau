@@ -1,5 +1,5 @@
-# Tableau
-Some of the Tableau dashboards I made and some notes from my Tableau experience.</br>
+# Tableau 
+Some of the Tableau dashboards I made and some notes from my Tableau learning experience.</br>
 
 1. The most basic things are dimensions and measures in Tableau. Dimensions are categorical values and measures are quantifiable values. Dimensions are not blue the blue ones are Discrete</br>
 2. Tooltip is the thing which pops up when you drag the cursor on any point, it's like a pop-up window. Of-course you can edit the tooltip, it gives you the ability to show the info that you want the people to see</br> 
